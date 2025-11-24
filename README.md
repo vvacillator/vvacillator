@@ -2,9 +2,6 @@
 
 ---
 
-Tech stack:
-Lua • Luau • Node.js • TypeScript
-
 Currently working on:
 ```Nothing```
 
