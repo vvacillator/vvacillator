@@ -1,7 +1,6 @@
 ### Fullstack lua*u*
 
 ***
-
 ---
 
 Tech stack:
