@@ -1,7 +1,9 @@
 ### Ayden • Full Stack luau
 
-**Currently working on:** nothing notablE 
+**Currently working on:** nothing notable
 **Currently learning:** [roblox-ts](https://roblox-ts.com)
+
+---
 
 #### Stack
 
