@@ -1,4 +1,4 @@
-### Ayden,  full stack lua*u*
+### Ayden • Full Stack luau
 
 **Currently working on:** nothing notablE 
 **Currently learning:** [roblox-ts](https://roblox-ts.com)
