@@ -1,6 +1,6 @@
 ### Ayden • Full Stack luau
 
-**Currently working on:** nothing notable
+**Currently working on:** nothing notable\
 **Currently learning:** [roblox-ts](https://roblox-ts.com)
 
 ---
@@ -19,5 +19,5 @@
 
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![pesde](https://img.shields.io/badge/pesde-1a1a1a?style=for-the-badge)
-![Argon](https://img.shields.io/badge/Argon-1a1a1a?style=for-the-badge)
+![pesde](https://raw.githubusercontent.com/pesde-pkg/pesde/0.7/assets/logotype.svg)
+![Argon](https://raw.githubusercontent.com/argon-rbx/argon-legacy/main/VSC%20Extension/assets/LogoName.png)
