@@ -19,5 +19,5 @@
 
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![pesde](https://raw.githubusercontent.com/pesde-pkg/pesde/0.7/assets/logotype.svg)
-![Argon](https://raw.githubusercontent.com/argon-rbx/argon-legacy/main/VSC%20Extension/assets/LogoName.png)
+<img src="https://raw.githubusercontent.com/pesde-pkg/pesde/0.7/assets/logotype.svg" alt="pesde" height="28">
+<img src="https://raw.githubusercontent.com/argon-rbx/argon-legacy/main/VSC%20Extension/assets/LogoName.png" alt="Argon" height="28">
