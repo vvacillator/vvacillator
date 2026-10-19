@@ -13,7 +13,7 @@
 
 #### Libraries
 
-[Vide](https://github.com/centau/vide) · [Charm](https://github.com/littensy/charm) · [React](https://github.com/jsdotlua/react-lua)
+[Vide](https://github.com/centau/vide) · [Charm](https://github.com/littensy/charm) · [React](https://github.com/jsdotlua/react-lua) · [Coding Style](https://gist.github.com/evaera/fee751d4e228dd262fe1174ba142a719)
 
 #### Setup
 
